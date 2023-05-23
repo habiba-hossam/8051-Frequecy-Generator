@@ -1,0 +1,3 @@
+".\Objects\proteus.obj" 
+TO ".\Objects\protues" 
+PRINT(".\Listings\protues.m51")

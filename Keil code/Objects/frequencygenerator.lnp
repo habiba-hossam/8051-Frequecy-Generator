@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\frequencygenerator" 
+PRINT(".\Listings\frequencygenerator.m51")
